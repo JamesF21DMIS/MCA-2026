@@ -18,6 +18,8 @@ My theme is Niel Gow's printed fiddle music, centred on the online copy of the *
 - **Authorship:** Although the book is published under Gow's name, it includes tunes by his family and friends, as well as pieces described only as "a very old tune". 
 - **Notation versus practice:** Ultimately, as with all sheet music, the printed score is partly a commercial product for a domestic market of musicians and therefore not a straightforward record of how Gow played.
 
+### Current curation and presentation
+The main source for my theme is Historical Music of Scotland (HMS, HMS.Scot), a project that catalogues printed sources of Scottish fiddle music from the 1800s. The *First Book of Niel Gow's Reels* is presented as digitised page scans of a physical copy alongside a full tune list. HMS even describes the physical copy itself under the 'Copy Notes', noting that it is yellowed and signed by a previous owner, "Capt Simpson". Recordings of Gow's tunes, by contrast, are found separately on sites like Youtube and the Traditional Tune Archive platforms.
 
 ### Strengths and weaknesses
 The scores that HMS uses are mainly photographs of pages, rather than machine-readable data, it is designed for specialists, and it doesn't link to recordings. In direct comparison, streaming platforms make the music easy to hear, but their metadata is commercial and says little about the historical source. Overall, the data for my theme is split across systems that don't connect to each other which poses a fair challenge. 
