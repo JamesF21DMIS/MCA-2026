@@ -24,5 +24,9 @@ The main source for my theme is Historical Music of Scotland (HMS, HMS.Scot), a 
 ### Strengths and weaknesses
 The scores that HMS uses are mainly photographs of pages, rather than machine-readable data, it is designed for specialists, and it doesn't link to recordings. In direct comparison, streaming platforms make the music easy to hear, but their metadata is commercial and says little about the historical source. Overall, the data for my theme is split across systems that don't connect to each other which poses a fair challenge. 
 
+## Week 2 – Niel Gow - Farewell to Whisky Transcription
 
-\[Lab Tasks 2\]
+### What the OMR engine got wrong
+- **File preparation:** Audiveris refused the PDF of the page I downloaded from HMS.Scot outright. The PDF was too big for Audiveris to handle it seemed so I had to crop the page to a just "Farewell to Whisky" as opposed to the full page which included another tune above it.
+- **Structure:** it split one piece into two separate files when i went to export.
+- **Text:** the title and caption were mangled. "Compofed for this 2d Edition" became "Ccmpoffd for thiS' Edition" and "Whisky" disappeared completely.
