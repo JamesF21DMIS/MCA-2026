@@ -34,3 +34,7 @@ The scores that HMS uses are mainly photographs of pages, rather than machine-re
 - **Structure:** it split one piece into two separate files when i went to export.
 - **Text:** the title and caption were mangled. "Compofed for this 2d Edition" became "Ccmpoffd for thiS' Edition" and "Whisky" disappeared completely.
 - **Key signature:** Audiveris only picked up one of the two flats in the key signature.
+
+## Week 3 - Verovio conversion and comparison between .MusicXML vs .Mei
+
+- **Please see the following link:**(https://jamesf21dmis.github.io/MCA-2026/verovio.html)
