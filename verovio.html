@@ -26,10 +26,10 @@
 <body>
     <div class="box">
     <div class="header"><h1>Week 3</h1>
-        <p>**XML Differences**
-        - Size: The MusicXML uses a much greater quantitiy of lines of code than that of the MEI file (1,371 vs 310) this is mainly down to the way that the MEI file stores most details as attribites as one element whereas the Music XML nests them as child elements
-        - Layout: One thing that MEI sacrifices compared to the MusicXML file is all of the code relating to MuseScore's own page setup as seen in `<defaults>`
-        
+        <p>XML Differences <br />
+        <ul> Size: The MusicXML uses a much greater quantitiy of lines of code than that of the MEI file (1,371 vs 310) this is mainly down to the way that the MEI file stores most details as attribites as one element whereas the Music XML nests them as child elements </ul>
+        <ul> Layout: One thing that MEI sacrifices compared to the MusicXML file is all of the code relating to MuseScore's own page setup as seen in the 'defaults' section, containing various dimensions and font information</ul>
+        <ul> The location of key, time, signature and clef: MusicXML puts this information inside the attributes tag, whereas MEI puts them inside scoreDef and staffDef </ul>
         </p>
     </div>
     <div id="app">Verovio is loading...</div>
