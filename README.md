@@ -27,8 +27,7 @@ The scores that HMS uses are mainly photographs of pages, rather than machine-re
 ## Week 2 – Niel Gow - Farewell to Whisky Transcription
 
 ### What the OMR engine got wrong
-- **File preparation:** Audiveris refused the PDF of the page I downloaded from HMS.Scot outright. The PDF was too big for Audiveris to handle it seemed so I had to crop the page to a just "Farewell to Whisky" as opposed to the full page which included another tune above it.
+- **Mishandled the file:** Audiveris refused the PDF of the page I downloaded from HMS.Scot outright. The PDF was too big for Audiveris to handle it seemed so I had to crop the page to a just "Farewell to Whisky" as opposed to the full page which included another tune above it.
 - **Structure:** it split one piece into two separate files when i went to export.
 - **Text:** the title and caption were mangled. "Compofed for this 2d Edition" became "Ccmpoffd for thiS' Edition" and "Whisky" disappeared completely.
-- **Key signature:** Audiveris only picked up one of the two flats in the key signature, which meant every E flat in the tune came out as an E natural.
-- **Rhythm:** this was the biggest problem. The single pickup note at the start was turned into a full bar with a rest that isn't in the original, and many of the short notes were read as longer ones, so a lot of bars ended up with the wrong number of beats. The pitches were mostly in the right place, but the rhythms were mostly wrong.
+- **Key signature:** Audiveris only picked up one of the two flats in the key signature.
