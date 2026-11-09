@@ -10,7 +10,10 @@
 ### My own reflection regarding challenges to working with music and music-related data:
 
   ### Challenges of working with music data
-Most of my own engagement with music comes through DJing and producing house music, which makes the problem of "music data" very visible. A modern dance track can't be accurately represented by a score. It exists primarily as an audio file and a project file in a Digital Audio Workstation like FL Studio or Ableton. The information around it like credits, tempo and key is spread across streaming platforms, DJ software and fan-run databases, additionally across these platforms details are often incomplete or inconsistent. The Main challenges I have observed with working with music data are the following; the first is access in the sense that a lot of music is restricted by copyright, paywalls or rare physical formats, the second is curation; and the way that someone decides what gets collected and how it is described. The third is representation, as seen in my dance music example, there is no single format whether that be score, recording or metadata, captures a piece of music completely.
+Most of my own engagement with music comes through DJing and producing house music, which makes the problem of "music data" very visible. A modern dance track can't truly be accurately represented by a score. The raw data exists as an audio file exported from popular music production software like FL Studio or Ableton. Key information like credits, tempo and key is spread across streaming platforms or DJ software. Additionally details across these platforms are often incomplete or inconsistent. Yet, the Main challenges I have observed with working with music data are the following; 
+- The first is access in the sense that a lot of music is restricted by copyright, paywalls or rare physical formats
+- The second is curation and the way that decisions are made around what gets collected and how it is described.
+- The third is representation, which is what I was trying to capture in my example of dance music, there is no single format whether that be score, recording or metadata, which captures a piece of music completely.
 
 ### How my theme displays these challenges
 My theme is Niel Gow's printed fiddle music, centred on the online copy of the *First Book of Niel Gow's Reels* found on HMS.Scot. 
