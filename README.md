@@ -41,7 +41,7 @@ The scores that HMS uses are mainly photographs of pages, rather than machine-re
 
 ## Week 4: music21 analysis
 
-Firstly, I ran my transcription of Farewell to Whisky from MuseScore as a MIDI file, and then ran it through jSymbolic with the following boxes ticked: Range, Mean Pitch, Most Common Pitch Class, Last Pitch, and Most Common Rhythmic Value
+Firstly, I exported my transcription of Farewell to Whisky from MuseScore as a MIDI file, and then ran it through jSymbolic with the following boxes ticked: Range, Mean Pitch, Most Common Pitch Class, Last Pitch, and Most Common Rhythmic Value
 
 [jSymbolic feature values (CSV)](data/jsymbolic-features.csv.csv)
 
