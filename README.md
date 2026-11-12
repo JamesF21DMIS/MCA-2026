@@ -43,13 +43,13 @@ The scores that HMS uses are mainly photographs of pages, rather than machine-re
 
 Firstly, I ran my transcription of Farewell to Whisky from MuseScore as a MIDI file, and then ran it through jSymbolic with the following boxes ticked: Range, Mean Pitch, Most Common Pitch Class, Last Pitch, and Most Common Rhythmic Value
 
-[jSymbolic feature values (CSV)](data/jsymbolic-features.csv)
+![jSymbolic feature values (CSV)](data/jsymbolic-features.csv)
 
 Secondly I followed the music21 instructions and managed to extract a piano roll, pitch histogram, and a scatter plot of pitches:
 
 ![Piano roll of Farewell to Whisky](data/piano-roll.png)
 ![Pitch histogram of Farewell to Whisky](data/pitch-histogram.png)
-![Scatter plot (pitches) of Farewell to Whisky](data/scatterplot.png)
+![Scatter plot (pitches) of Farewell to Whisky](data/Scatterplot.png)
 
 
 
