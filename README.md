@@ -51,5 +51,28 @@ Secondly I followed the music21 instructions and managed to extract a piano roll
 ![Pitch histogram of Farewell to Whisky](data/pitch-histogram.png)
 ![Scatter plot (pitches) of Farewell to Whisky](data/Scatterplot.png)
 
+## Week 5: Metadata and MEI Encoding 
 
+### Chosen Metadata
 
+- Title i.e. "Farewell to Whisky"
+- Artist i.e. "Niel Gow"
+- Publisher i.e. "Gow & Son's"
+- Date i.e. "1801"
+- Key i.e. "B♭ Major"
+
+### Reflection: 
+
+The way I chose my five elements was by trying to hone in on considering who would use a catalogue of Gow's fiddle music. For example, Title and artist are basics that anyone would search by, however publisher and date matter more to historians that would be interested in how Scottish fiddle music was printed and distributed around 1800. Key is also useful to musicians that would look to replicate the piece. 
+
+I also linked Niel Gow as an artist to his VIAF record using '@auth' and '@auth.uri'. I got this idea from the lecture slides as VIAF was listed as a common authority for people, so i followed the format of the lecture's example. I also think using an authority here is important as the name is often spelled as "Neil", in addition to there being multiple people named Niel Gow. I then added his life dates; 'startdate="1727" enddate="1807"' and checked them against the VIAF record so i was certain that it linked to the right person
+
+Additionally, when looking at the lecture example, i noticed the composer was placed inside '<respStmt>', so i decided to just replicate this approach despite the MEI sample file I looked at using a '<composer>' element instead as I wanted to just align myself with the course's approach. Additionally, I put the key in '<worklist>', which describes the piece as a musical work. I then consulted HMS to find the publisher, "Gow & Son's"
+
+### Sources Consulted
+
+- Duguid, T., Lecture 6: "Description Best Practice", Music Curation and Analytics 26/27, University of Glasgow
+- MEI Sample Encodings, *Aguado_Walzer_G-major.mei* (MEI 5.0): https://github.com/music-encoding/sample-encodings/tree/main/MEI_5.0/Music/Complete_examples
+- Historical Music of Scotland, *First Book of Niel Gow's Reels*, 2nd edition (1801), Glasgow University Library Ca11-y.30: https://www.hms.scot/prints/copy/8/
+-  VIAF, Gow, Niel, 1727–1807: https://viaf.org/viaf/183286907
+-  Music Encoding Initiative, *MEI Guidelines v5*: https://music-encoding.org/guidelines/v5/content/index.html
