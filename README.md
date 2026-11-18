@@ -62,7 +62,7 @@ Secondly I followed the music21 instructions and managed to extract a piano roll
 - Key i.e. "B♭ Major"
 
 ### Updated MEI File
-(data/FarewelltoWhiskyMuseScore.mei)
+[Farewell to Whisky (MEI)](data/FarewelltoWhiskyMuseScore.mei)
 
 ### Reflection: 
 
