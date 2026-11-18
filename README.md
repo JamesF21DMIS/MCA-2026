@@ -79,3 +79,14 @@ Additionally, when looking at the lecture example, i noticed the composer was pl
 - Historical Music of Scotland, *First Book of Niel Gow's Reels*, 2nd edition (1801), Glasgow University Library Ca11-y.30: https://www.hms.scot/prints/copy/8/
 -  VIAF, Gow, Niel, 1727–1807: https://viaf.org/viaf/183286907
 -  Music Encoding Initiative, *MEI Guidelines v5*: https://music-encoding.org/guidelines/v5/content/index.html
+
+## Week 7: Further MEI encoding work 
+
+[Farewell to Whisky v2 (Mei)](data/FarewelltoWhiskyMuseScorev2.mei)
+### Genre and Licensing 
+When adding the genre, i put it under "Scottish fiddle tune" using '<notesStmt>' and '<annot type="genre">' inside '<work>'. I did this by following the hint in the instructions for the lab and then checked MEI Guidelines which explained that a notes statement hold '<annot>' elements, thus meaning that genre was a good fit for that location. For the licence, I used CC BY 4.0 within '<availability>' and '<useRestrict>'. I also know that as Gow died in 1807, and UK copyright lasts 70 years after death, the original music is in the public domain. However because my encoding is a new body of work, I can choose how others reuse it, and hence I chose CC BY because it lets anyone reuse my encoding as long as they credit me. I decided against a noncommercial licence as it would be strange to restrict a tune that has already existed in the public domain for so long. 
+
+### Formatting the metadata
+See my metaRAW page below, including the metadata of my score above the score, and additional comments on how the formatting could be improved, located below the score
+
+[Farewell to Whisky, Metadata and Score](https://jamesf21dmis.github.io/MCA-2026/metaRAW.html)
