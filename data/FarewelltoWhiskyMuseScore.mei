@@ -7,7 +7,7 @@
          <titleStmt xml:id="t1mkxyn1">
             <title>Farewell to Whisky</title>
             <respStmt>
-               <persName role="composer">Niel Gow</persName>
+               <persName role="composer" startdate="1727" enddate="1807" auth="VIAF" auth.uri="https://viaf.org/viaf/183286907">Niel Gow</persName>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="p1r3ztcu">
@@ -16,6 +16,17 @@
                <distributor>Source: First Book of Niel Gow's Reels, 2nd ed. (Edinburgh, 1801), Glasgow University Library Ca11-y.30 via hms.scot</distributor>
             </availability>
          </pubStmt>
+         <sourceDesc>
+         	<source>
+            	<bibl>
+               	<title>First Book of Niel Gow's Reels</title>
+                  <imprint>
+                  	<publisher>Gow &amp; Son's</publisher>
+                  	<date isodate="1801">1801</date>
+                  </imprint>
+               </bibl>	
+            </source>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc xml:id="ep1xko0">
          <appInfo xml:id="a17now3o">
@@ -25,6 +36,12 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <workList>
+      	<work>
+         	<title>Farewell to Whisky</title>
+            <key pname="b" accid="f" mode="major">B-flat major</key>
+         </work>
+      </workList>
    </meiHead>
    <music>
       <body>
