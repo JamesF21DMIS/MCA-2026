@@ -61,6 +61,9 @@ Secondly I followed the music21 instructions and managed to extract a piano roll
 - Date i.e. "1801"
 - Key i.e. "B♭ Major"
 
+### Updated MEI File
+(data/FarewelltoWhiskyMuseScore.mei)
+
 ### Reflection: 
 
 The way I chose my five elements was by trying to hone in on considering who would use a catalogue of Gow's fiddle music. For example, Title and artist are basics that anyone would search by, however publisher and date matter more to historians that would be interested in how Scottish fiddle music was printed and distributed around 1800. Key is also useful to musicians that would look to replicate the piece. 
